@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+En conclusion, notre présentation a mis en évidence les différentes approches utilisées pour la classification de la personnalité, à savoir l'analyse des données textuelles, visuelles, et la combinaison des deux.
+Le modèle BERT a donné des résultats satisfaisants en se basant uniquement sur les données textuelles. Cependant, il est important de noter que sa performance reste dépendante de la distribution des données. D'autre part, le CNN a obtenu des résultats moins satisfaisants lorsqu'il a été appliqué uniquement aux images.
+C'est ici que ViLT intervient en combinant les deux types de données, ce qui a conduit à de meilleurs résultats.(4)
+En résumé, notre projet a démontré les limites des modèles individuels pour la détection de la personnalité sur Instagram. Nous avons réussi à mettre en évidence l'importance de la combinaison des données textuelles et visuelles pour une compréhension plus approfondie de la personnalité des utilisateurs. En particulier, le succès de ViLT démontre un réel potentiel pour la détection de la personnalité grâce à l'utilisation du multimodèle. Ces résultats encourageants incitent les chercheurs dans le domaine de la classification de la personnalité à se tourner davantage vers le multimodélisme pour de futures recherches.
+Ceci incite les chercheurs de classification de personnalité à se tourner davantage vers le multimodélisme pour de futures recherches.

@@ -4,7 +4,7 @@
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
-    "strict": true,
+    "strict": false,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
@@ -15,6 +15,9 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "paths": {
+    "@/*": ["./*"]
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "helpers/blogs.js"],
   "exclude": ["node_modules"]
 }
